@@ -11,21 +11,17 @@ function handler(m) {
   • (escribe solo si es necesario) 
 ▢ GitHub :
   • https://github.com/Lucky-Cv
-▢ Telegram : 
-  • t.me/fgsupp_bot (FG) 
-  • t.me/fg98ff (canal)
-  • t.me/fgawgp (grupo)
 ▢ Facebook : 
-  • https://facebook.com/
-  • https://facebook.com/
+  • https://facebook.com/lucky
+  • https://facebook.com/Lucky-Cv
 ▢ YouTube : 
-  • https://youtube.com/
+  • https://youtube.com/luck
   
  *≡ HELPERS*
   *CRISS*
 ▢ Instagram : https://www.instagram.com/
 ▢ WhatsApp : wa.me/
-▢ Instagram : https://
+▢ Instagram : https://Instagram.com/
 ▢ WhatsApp : wa.me/
 `) 
 
