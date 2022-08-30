@@ -3,7 +3,7 @@
 <img src="https://gpvc.arturio.dev/FG98F" />
 <p/>
 <p align="center">
-<a href="https://github.com/lucky-Cv"><img title="Author" src="https://img.shields.io/badge/DyLux Bot-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://github.com/lucky-Cv"><img title="Author" src="https://img.shields.io/badge/Lucky-Cv-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Lucky-Cv/followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
