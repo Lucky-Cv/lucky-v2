@@ -3,13 +3,13 @@
 <img src="https://gpvc.arturio.dev/FG98F" />
 <p/>
 <p align="center">
-<a href="https://github.com/FG98F"><img title="Author" src="https://img.shields.io/badge/DyLux Bot-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://github.com/lucky-Cv"><img title="Author" src="https://img.shields.io/badge/DyLux Bot-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/FG98F/followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
-<a href="https://github.com/FG98F/dylux-fg/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/dylux-fg?&style=social"></a>
-<a href="https://github.com/FG98F/dylux-fg/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/dylux-fg?style=social"></a>
-<a href="https://github.com/FG98F/dylux-fg/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/dylux-fg?label=Watching&style=social"></a>
+<a href="https://github.com/Lucky-Cv/followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
+<a href="https://github.com/FG98F/Lucky-Cv/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/dylux-fg?&style=social"></a>
+<a href="https://github.com/FG98F/Lucky-Cv/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/dylux-fg?style=social"></a>
+<a href="https://github.com/FG98F/Lucky-Cv/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/dylux-fg?label=Watching&style=social"></a>
 </p>
 
 
@@ -18,8 +18,8 @@
 
 ***
 ### Información
-- Cambie número de dueño en [Config](https://github.com/FG98F/dylux-fg/blob/main/config.js#L6)
-- Puede cambiar a la última versión de baileys editando el package.json [esta sección](https://github.com/FG98F/dylux-fg/blob/main/package.json#L42)
+- Cambie número de dueño en [Config](https://github.com/Lucky-Cv/lucky-v2/blob/main/config.js#L6)
+- Puede cambiar a la última versión de baileys editando el package.json [esta sección](https://github.com/Lucky-Cv/lucky-v2/blob/main/package.json#L42)
 
 
 ### Ejemplo 
@@ -30,7 +30,7 @@ En caso de duda, antes de instalar dylux-bot, pruebe el bot aquí
 ***
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FG98F/dylux-fg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lucky-Cv/lucky-v2)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
@@ -46,8 +46,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/FG98F/dylux-fg
-$ cd dylux-fg
+$ git clone https://github.com/Lucky-Cv/lucky-v2
+$ cd lucky-v2
 $ npm i 
 $ npm start
 ```
