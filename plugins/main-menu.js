@@ -26,17 +26,16 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-  ────  *DyLux  ┃ ᴮᴼᵀ*  ────
+  ────  *Lucky ┃ ᴮᴼᵀ*  ────
 
 👋🏻 _Hola_ *%name*
 
 🧿 Nivel : *%level* 
 👥 Usuarios : %totalreg
 ─────────────
-▢ Crea tu propio bot 
-• https://youtu.be/xFqjKN1Qt80
-▢ Descarga *FGWhatsApp*
-• https://fgmods.epizy.com
+
+▢ Descarga *LBWhatsApp*
+• https://github.com/Lucky-v
 ─────────────
 %readmore
 Ⓟ = Premium
@@ -157,8 +156,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
       ['✆ Owner', '/owner']
     ], m)*/
     
-    conn.sendButton(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n', pp, [
-      ['ꨄ︎ Apoyar', `${_p}donate`],
+    conn.sendButton(m.chat, text.trim(), '▢ Lucky  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/Lucky-Cv\n', pp, [
       ['⏍ Info', `${_p}botinfo`],
       ['⌬ Grupos', `${_p}gpdylux`]
     ],m)
