@@ -4,11 +4,11 @@ let handler =  m => m.reply(`
 puedes donar si quieres ayudar a mantener el bot activo
 
 ▢ *PayPal*
-• *Link :* https://paypal.me/fg98f
+• *Link :* https://paypal.me/valencia
 ▢ *Mercado Pago Arg*
-• *Link :* https://mpago.la/1F3r6JH
+• *Link :* https://mpago.la/valencia
 ▢ *Tigo Money*
-• *N° :*  75140648 
+• *N° :*  979790
 
 _Al donar consigues_  *Premium* 
 
