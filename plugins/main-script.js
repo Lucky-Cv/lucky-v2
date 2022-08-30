@@ -7,9 +7,9 @@ let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.js
 m.reply(`
 *≡ SCRIPT*
 
-▢ Git : ${_package.homepage}
+▢ Git : https://github.com/Lucky-Cv/lucky-v2
 `.trim())
-    
+   
 }
 
 handler.help = ['script']
